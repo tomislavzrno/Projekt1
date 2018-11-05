@@ -1,0 +1,13 @@
+
+body{
+    background-image:url("kava1.jpg");
+    background-size:100%;
+}
+.form-input{
+    position: relative;
+    margin-left: 450px;
+     margin-top: 30%;
+    text-align:left;
+     color: black;
+    
+}
